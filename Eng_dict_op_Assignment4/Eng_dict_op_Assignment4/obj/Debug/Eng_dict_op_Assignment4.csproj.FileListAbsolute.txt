@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\Eng_dict_op_Assignment4\Eng_dict_op_Assignment4\bin\Debug\Eng_dict_op_Assignment4.exe.config
+C:\Users\DELL\source\repos\Eng_dict_op_Assignment4\Eng_dict_op_Assignment4\bin\Debug\Eng_dict_op_Assignment4.exe
+C:\Users\DELL\source\repos\Eng_dict_op_Assignment4\Eng_dict_op_Assignment4\bin\Debug\Eng_dict_op_Assignment4.pdb
+C:\Users\DELL\source\repos\Eng_dict_op_Assignment4\Eng_dict_op_Assignment4\obj\Debug\Eng_dict_op_Assignment4.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Eng_dict_op_Assignment4\Eng_dict_op_Assignment4\obj\Debug\Eng_dict_op_Assignment4.exe
+C:\Users\DELL\source\repos\Eng_dict_op_Assignment4\Eng_dict_op_Assignment4\obj\Debug\Eng_dict_op_Assignment4.pdb
